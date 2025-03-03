@@ -36,15 +36,6 @@ INSTAGRAM_ACCOUNT_ID="your_instagram_account_id_here"
 IMGUR_CLIENT_ID="your_imgur_client_id_here"
 ```
 
-### **2. Ensure `.env` is Not Committed**
-Check that `.env` is in `.gitignore` to prevent accidentally pushing sensitive credentials:
-```bash
-git check-ignore -v .env
-```
-If `.env` is tracked, remove it from Git history:
-```bash
-git rm --cached .env
-```
 
 ---
 

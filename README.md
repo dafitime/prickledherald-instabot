@@ -65,22 +65,6 @@ pip install -r requirements.txt  # Reinstall dependencies if needed
 
 ---
 
-## Deployment
-If you plan to run this bot on a server, consider using a process manager like `screen`, `tmux`, or `systemd` to keep it running persistently.
-
-For example, using `screen`:
-```bash
-screen -S instabot
-python main.py
-```
-To detach from the session, press `Ctrl + A`, then `D`.
-To reattach later:
-```bash
-screen -r instabot
-```
-
----
-
 ## Troubleshooting
 ### **1. `ModuleNotFoundError`**
 If you get a missing module error, ensure dependencies are installed:

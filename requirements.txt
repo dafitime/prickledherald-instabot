@@ -1,6 +1,17 @@
-﻿requests
+﻿
+
+
+<<<<<<< HEAD
+# Your local version
+requests
 pillow
 python-dotenv
-instabot
 instagrapi
 beautifulsoup4
+=======
+# The version from GitHub
+requests
+Pillow
+beautifulsoup4
+instabot
+>>>>>>> origin/main

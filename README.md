@@ -6,7 +6,7 @@ This is an Instagram bot for posting images with captions, automatically generat
 
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/YOUR-USERNAME/prickledherald-instabot.git
+git clone https://github.com/dafitime/prickledherald-instabot.git
 cd prickledherald-instabot
 ```
 

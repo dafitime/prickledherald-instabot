@@ -66,13 +66,6 @@ pip install -r requirements.txt
 ### **2. `.env` Not Loading**
 Make sure you installed `python-dotenv` and your `.env` file is in the correct location.
 
-### **3. `git push` Issues**
-If `.env` was committed by mistake:
-```bash
-git rm --cached .env
-git commit -m "Removed .env from tracking"
-git push origin main
-```
 
 ---
 

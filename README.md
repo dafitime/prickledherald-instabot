@@ -2,6 +2,12 @@
 
 This is an Instagram bot for posting images with captions, automatically generating content from articles, and handling image processing.
 
+The program was written for Prickled Herald (prickledherald.com) and was used for social media purposes. The GUI should allow you to change articles and extract data from a website that provides an RSS feed.
+
+Future versions will allow you to input any website that should contain an RSS feed and extract the data from there.
+
+Change the logo.png to your choosing. Logo is currently 300 x 300px.
+
 ## Installation
 
 ### **1. Clone the Repository**
